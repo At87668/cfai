@@ -1,10 +1,10 @@
 {
-  "name": "Cloudflare AI Web",
-  "short_name": "Cloudflare AI Web",
+  "name": "AI-Chating",
+  "short_name": "AI-Chating",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#fff",
-  "description": "Cloudflare AI Web App",
+  "description": "Chating with AI",
   "icons": [
     {
       "src": "/pwa.webp",
@@ -15,7 +15,7 @@
   "related_applications": [
     {
       "platform": "web",
-      "url": "https://jaze.top"
+      "url": ""
     }
   ]
 }
