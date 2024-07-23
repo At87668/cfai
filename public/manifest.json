@@ -8,14 +8,14 @@
   "icons": [
     {
       "src": "/pwa.webp",
-      "sizes": "256x256",
+      "sizes": "64x64",
       "type": "image/webp"
     }
   ],
   "related_applications": [
     {
       "platform": "web",
-      "url": ""
+      "url": "https://chat.star-dust.link/"
     }
   ]
 }
